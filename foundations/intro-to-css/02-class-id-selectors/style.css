@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+
+.class {
+    background-color: #e68398;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#id {
+    color: #2002c9;
+    font-size: 36px;
+}
+
+.class.cooler {
+    font-size: 24px;
+}
+
+#id-two {
+    background-color: #82e775;
+    font-size: 24px;
+    font-weight: bold;
+}
